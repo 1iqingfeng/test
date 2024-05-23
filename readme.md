@@ -7,6 +7,8 @@
         resource 代码等资源
         readme.md 基本说明文件
 可以添加结构后再readme.md说明但不能少于基本结构(除非你不附录图片资源或代码资源)
+# 注意
+    pass.txt是占位文件传送而已
 #  笔记查看工具在
 C:\Users\admin\Desktop\stores\工具库\记录工具\Obsidian\Obsidian.exe 安装后同文件仓库plugins可拖入自己笔记的.Obsidian文件夹安装插件
 快速上手 https://zhuanlan.zhihu.com/p/428519519
